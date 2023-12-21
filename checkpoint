@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Ian Sornson\\Desktop\\Projects\\gtav-nerualnet\\gtav-0.001-alexnetv2-8-epochs.model"
+all_model_checkpoint_paths: "C:\\Users\\Ian Sornson\\Desktop\\Projects\\gtav-nerualnet\\gtav-0.001-alexnetv2-8-epochs.model"
